@@ -356,5 +356,56 @@ textarea {
 
 	#primary_links a:hover {
 	 text-decoration: underline;
+}	
+#content {
+  width: 545px;
+    float: left;
+      padding-left: 24px;
+        padding-right: 24px;
+	}
 
-							  }
+	p.first {
+	  margin-top: 0px;
+	  }
+	  .mainimg {
+	    float: left;
+	      height: 150px;
+	        width: 100px;
+		  margin-right:10px;
+		    margin-bottom:10px
+		    }
+		    #branding {
+		    width: 900px;
+		    height:86px;
+		    background-color: #ffffff;	
+		    }
+
+		    #article_title {
+		      height: 87px;
+		        line-height: 87px;
+
+			}
+
+			#sidebar {
+			  background-color:#FFF;
+			    width: 367px;
+			      float:left;
+			       
+			       }
+			       #footer {
+			         clear: both;
+				 }
+				 #banner{
+				 width: 960px;
+				 height: 250px;
+				 background-color: #000000;
+
+				 }
+				 #sidebarcontent{
+				 width: 340px;
+				 margin-left: auto;
+margin-right: auto;	
+
+}
+
+

@@ -378,7 +378,9 @@ textarea {
 	   width: 900px;
 	   height:86px;
 	  background-color: #ffffff;	
-	   }
+	  margin-left: auto;
+	  margin-right: auto;
+	  }
 
          #article_title {
 	   height: 87px;
@@ -392,13 +394,18 @@ textarea {
 	 float:left;
 		      
 	 }
+	 
 	 #footer {
 	 clear: both;
+	 
 	 }
+	 
 	#banner{
-	width: 960px;
+	width: 900px;
 	height: 250px;
-	 background-color: #000000;
+	background-color: #ffffff;
+        margin-left: auto;
+	margin-right: auto;
 
 		}
 	 #sidebarcontent{
@@ -407,5 +414,4 @@ textarea {
          margin-right: auto;	
 
           }
-
 

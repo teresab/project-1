@@ -287,3 +287,36 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+}
+#wrapper {
+   width: 960px;
+   margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    }
+     h1 {
+     font-family:"Arial", Gadget, sans-serif;
+     color:#FC3;
+     font-size: 220%;
+      }
+     h2 { 
+      font-size: 200%; 
+      margin-top:0px;
+        }
+      h3 {
+       font-size: 180%;
+	}
+	h4 {
+        font-size: 160%;
+	 }
+	 h5 {
+         font-size: 140%;
+	 }
+	 h6 {
+         font-size: 110%;
+            }
+         p{
+	 font-family:Tahoma, Geneva, sans-serif;
+	font-size:14px;
+						}

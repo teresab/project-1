@@ -311,10 +311,10 @@ textarea {
 	 }
 	 h5 {
          font-size: 140%;
-	 }
+	line-height:90% }
 	 h6 {
          font-size: 110%;
-         margin-top: 0px;
+	 line-height: 90%;
 	}
          p{
 	 font-family:Tahoma, Geneva, sans-serif;
@@ -415,4 +415,5 @@ textarea {
          margin-right: auto;	
          font-family:Arial, sans-serif;
 	 font-size: 12px;
-          }
+         line-height: 90%
+	 }

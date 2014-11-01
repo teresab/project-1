@@ -420,9 +420,10 @@ textarea {
 		}
 	 #sidebarcontent{
 	 width: 340px;
-	 margin-left: auto;
-         margin-right: auto;	
+	 padding-left:10px;
+         padding-right: 10px;	
          font-family:Arial, sans-serif;
 	 font-size: 12px;
+	 border: 1px solid #000000;
          line-height:24px;
 	 }

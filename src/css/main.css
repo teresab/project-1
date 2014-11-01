@@ -296,19 +296,21 @@ textarea {
     }
      h1 {
      font-family:"Tahoma", Geneva, sans-serif;
-     color:#FC3;
+     color:#EDBC03;
      font-size: 220%;
      margin-top:0px;
       }
      h2 { 
       font-size: 200%; 
       margin-top:0px;
-      margin-bottom:0px
+      margin-bottom:0px;
+      color:#042655;
         }
       h3 {
        font-size: 180%;
        margin-top: 0px;
        margin-bottom:0px;
+	color: #3C4575;
 	}
 	h4 {
         font-size: 160%;

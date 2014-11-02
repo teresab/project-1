@@ -416,7 +416,9 @@ textarea {
 	 background-color:#FFF;
 	 width: 367px;
 	 float:left;
-	
+	font-family:'Arial', Helvetica, sans-serif;
+	  font-size: 12px;
+          line-height:24px
 	 }
 	 
 	 #footer {
@@ -438,7 +440,7 @@ textarea {
 
 		}
 
-	 .sidebarcontent{
+	 #sidebarcontent{
 	 width: 320px;
 	 padding-left:13px;
          padding-right: 13px;	

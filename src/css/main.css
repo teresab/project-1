@@ -294,29 +294,34 @@ textarea {
     margin-right: auto;
     border: 1px solid;
     }
+
      h1 {
-     font-family:'Arial Narrow', Arial, sans-serif;
+     font-family:'Arial Narrow', Arial, Sans-serif;
      color:#EDBC03;
      font-size: 220%;
      margin-top:0px;
       }
+
      h2 { 
       font-size: 200%; 
       margin-top:0px;
       margin-bottom:0px;
       color:#042655;
         }
+
       h3 {
        font-size: 180%;
        margin-top: 0px;
        margin-bottom:0px;
 	color: #3C4575;
 	}
+
 	h4 {
         font-size: 160%;
 	 margin-top:0px;
 	 margin-bottom:0px;
 	 }
+
 	 h5 {
          font-size: 140%;
 	 margin-top:0px;
@@ -328,7 +333,7 @@ textarea {
 	 margin:bottom:0px;
 	 }
          p{
-	 font-family: Georgia, Times, 'Times New Roman', serif;
+	 font-family: Georgia, Times, 'Times New Roman', Serif;
 	 font-size:16px;
 	line-height:23px;
 	}
@@ -432,7 +437,8 @@ textarea {
 	margin-right: 30px;
 
 		}
-	 #sidebarcontent{
+
+	 .sidebarcontent{
 	 width: 320px;
 	 padding-left:13px;
          padding-right: 13px;	

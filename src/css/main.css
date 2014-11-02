@@ -295,8 +295,9 @@ textarea {
     border: 1px solid;
     }
      h1 {
-     font-family:"Tahoma", Geneva, sans-serif;
+     font-family:'Arial Narrow', Arial, sans-serif;
      color:#EDBC03;
+     font-weight: bold;
      font-size: 220%;
      margin-top:0px;
       }
@@ -328,7 +329,7 @@ textarea {
 	 margin:bottom:0px;
 	 }
          p{
-	 font-family:Tahoma, Geneva, sans-serif;
+	 font-family:Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman', serif;
 	font-size:14px;
 	}
 
@@ -374,6 +375,7 @@ textarea {
 	p.first {
          margin-top: 0px;
 	  }
+
 	 .mainimg {
 	  float: left;
 	   height: 150px;
@@ -381,6 +383,7 @@ textarea {
             margin-right:10px;
              margin-bottom:10px;
 	   }
+
 	   .mainimgtwo {
 	  float:left;
 	  height: 150px;
